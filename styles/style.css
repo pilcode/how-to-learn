@@ -58,9 +58,10 @@
 
 .header__link {
   color: #2f80ed;
+  text-decoration: none;
 }
  
-a.header__link:hover {
+.header__link:hover {
   color: #000080;
 }
 
@@ -223,7 +224,7 @@ a.header__link:hover {
   color: #000;
 }
 
-a.feynman__link:hover {
+.feynman__link:hover {
   color: #2f80ed;
 }
 
@@ -343,7 +344,7 @@ a.feynman__link:hover {
   
 }
 
-a.footer__link:hover {
+.footer__link:hover {
   color:  #2f80ed;
 }
 
@@ -352,7 +353,7 @@ a.footer__link:hover {
   height: 16px;
   margin-right: 10px;
 }
- .footer__link {
-   color: white;
-   text-decoration: none;
- }
+.footer__link {
+  color: white;
+  text-decoration: none;
+}
