@@ -1,0 +1,9 @@
+.footer__links-list {
+    list-style: none;
+    margin: 20px 0 16px 0;
+    padding: 0;
+    text-align: start;
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: normal;
+  }
